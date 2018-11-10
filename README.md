@@ -9,6 +9,8 @@ A basic web server project.
 Please fork carefully.
 Since, this is a very serious project, now more changes from staging.
 
+Emergency FIx
+
 ## Purpose
 Web server project
 As stated above, the main purpose is to provide simple but multiple examples for Git.
