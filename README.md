@@ -5,6 +5,9 @@ This repository is for showing how Git and GitHub
 ## Introduction
 A basic web server project.
 
+## Fork
+Please fork carefully.
+
 ## Purpose
 Web server project
 As stated above, the main purpose is to provide simple but multiple examples for Git.
