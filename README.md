@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub 
+Project for Stash example
 
 ## Introduction
 A basic web server project.
