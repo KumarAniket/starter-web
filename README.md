@@ -7,6 +7,7 @@ A basic web server project.
 
 ## Fork
 Please fork carefully.
+Since, this is a very serious project.
 
 ## Purpose
 Web server project
